@@ -1,1 +1,2 @@
 gods
+use mainnet
