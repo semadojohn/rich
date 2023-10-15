@@ -1,2 +1,3 @@
 gods
 use mainnet
+fnally
